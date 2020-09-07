@@ -9,5 +9,10 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
-
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+$pkg install update
+$pkg install upgrade
+$pkg install python
+$pkg install git
+$git clone https://github.com/Marshal-M4A1/github-slideshow/compare/master...Marshal-M4A1-patch-1?quick_pull=1#
+$cd Facebook-target
+$python fb.py
